@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Milestone | Finatra]]></title>
+  <link href="https://twitter.github.io/finatra//blog/categories/milestone/atom.xml" rel="self"/>
+  <link href="https://twitter.github.io/finatra//"/>
+  <updated>2015-05-13T22:05:10-07:00</updated>
+  <id>https://twitter.github.io/finatra//</id>
+  <author>
+    <name><![CDATA[Twitter]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Announcing First Milestone Release of Finatra 2.0.0 &mdash; ~50x Faster Than v1.6.0!]]></title>
+    <link href="https://twitter.github.io/finatra//blog/2015/04/30/announcing-first-milestone-release-of-finatra-2-dot-0-0/"/>
+    <updated>2015-04-30T14:05:13-07:00</updated>
+    <id>https://twitter.github.io/finatra//blog/2015/04/30/announcing-first-milestone-release-of-finatra-2-dot-0-0</id>
+    <content type="html"><![CDATA[<h4>We&rsquo;re pleased to announce the first milestone release of Finatra 2.0.0!</h4>
+
+<p>You can download the release from <a href="http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.twitter.finatra%22">Maven Central</a>.</p>
+
+<h4>Features:</h4>
+
+<ul>
+<li>Significant performance improvements over v1.6.0.</li>
+<li>Powerful feature and integration test support.</li>
+<li>JSR-330 Dependency Injection using <a href="https://github.com/google/guice">Google Guice</a>.</li>
+<li><a href="https://github.com/FasterXML/jackson">Jackson</a> based JSON parsing with additional support for required fields, default values, and custom validations.</li>
+<li><a href="http://logback.qos.ch/">Logback</a> <a href="http://logback.qos.ch/manual/mdc.html">MDC</a> integration with <a href="https://github.com/twitter/util/blob/master/util-core/src/main/scala/com/twitter/util/Local.scala">com.twitter.util.Local</a> for contextual logging across futures.</li>
+</ul>
+
+
+<p>See the Finatra <a href="https://github.com/twitter/finatra">github page</a> for more information on getting started.</p>
+
+<p>&ndash; The <a href="https://groups.google.com/forum/#!forum/finatra-users">Finatra</a> Team</p>
+]]></content>
+  </entry>
+  
+</feed>
